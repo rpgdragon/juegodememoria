@@ -47,6 +47,7 @@
 		84E9FB3B1BE8C5EF00C0EE92 /* josemanuelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = josemanuelUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E9FB3F1BE8C5EF00C0EE92 /* josemanuelUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = josemanuelUITests.swift; sourceTree = "<group>"; };
 		84E9FB411BE8C5EF00C0EE92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84E9FB4D1BE8C7AB00C0EE92 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		84E9FB1E1BE8C5EE00C0EE92 /* josemanuel */ = {
 			isa = PBXGroup;
 			children = (
+				84E9FB4D1BE8C7AB00C0EE92 /* juegoDeMemoria.playground */,
 				84E9FB1F1BE8C5EE00C0EE92 /* AppDelegate.swift */,
 				84E9FB211BE8C5EE00C0EE92 /* ViewController.swift */,
 				84E9FB231BE8C5EE00C0EE92 /* Main.storyboard */,
@@ -484,6 +486,7 @@
 				84E9FB461BE8C5EF00C0EE92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84E9FB471BE8C5EF00C0EE92 /* Build configuration list for PBXNativeTarget "josemanuelTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				84E9FB491BE8C5EF00C0EE92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84E9FB4A1BE8C5EF00C0EE92 /* Build configuration list for PBXNativeTarget "josemanuelUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				84E9FB4C1BE8C5EF00C0EE92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
